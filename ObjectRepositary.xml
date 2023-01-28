@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<locator>
+<gmail>//a[text()='Gmail']</gmail>
+<image>//a[text()='Images']</image>
+<search>//input[@name='q']</search>
+<xpathforinput>//input[@id='name']</xpathforinput>
+</locator>
